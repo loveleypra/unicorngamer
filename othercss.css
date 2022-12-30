@@ -1,0 +1,42 @@
+* {
+    background-color: black;
+    color: white;
+  }
+  input[type=text], input[type=password] {
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  .container{
+    text-align: center;
+  }
+  button {
+    margin-lef: 22px;
+    width: 30%;
+    padding: 15px 25px;
+    background: transparent;
+    color:white;
+    font-size: 15px ;
+    border: 2px solid #dbe9ed;
+    border-radius: 10px;
+  }
+  button:hover {
+    background-color:rgb(229, 221, 221);
+    color: rgb(71, 168, 216);
+  }
+  img{
+    text-align: center;
+    position:relative;
+    bottom: 25px;
+  }
+  .container {
+    padding: 16px;
+    position: relative;
+    top: 95px;
+  }
+ img{
+  width:300px;
+ }
