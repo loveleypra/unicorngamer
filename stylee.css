@@ -111,6 +111,7 @@ nav{
         position: absolute;
         left: 59%;
         color: rgb(228, 220, 220);
+        font-size: small;
     }
 a{
     color: #dbe9ed;
