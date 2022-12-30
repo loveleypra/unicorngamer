@@ -105,13 +105,11 @@ img{
     img{
         width: 18rem;
     }
-  
-}
 nav{
-        position: absolute;
         color: rgb(228, 220, 220);
         font-size: small;
     }
+}
 a{
     color: #dbe9ed;
 }
