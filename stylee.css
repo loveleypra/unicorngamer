@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    cursor:pointer;
     font-family: 'Courier New', Courier, monospace;
 }
 body{
@@ -113,8 +112,6 @@ nav{
         left: 59%;
         color: rgb(228, 220, 220);
     }
-    
-}
 a{
     color: #dbe9ed;
 }
